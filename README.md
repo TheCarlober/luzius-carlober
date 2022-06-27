@@ -10,16 +10,16 @@ En este repositorio podemos encontrar una canidad virus para android y Windows p
 
 ### Installation Termux
 ```
-$termux-setup-storage
-$cd /sdcard
-$pkg install git
-$pkg install python2
-$pkg install ruby
-$gem install lolcat
-$https://github.com/TheCarlober/luzius-carlober
-$cd luzius-carlober
-$pip2 install -r requirements.txt
-$python2 malicious.py
+$ termux-setup-storage
+$ cd /sdcard
+$ pkg install git
+$ pkg install python2
+$ pkg install ruby
+$ gem install lolcat
+$ https://github.com/TheCarlober/luzius-carlober
+$ cd luzius-carlober
+$ pip2 install -r requirements.txt
+$ python2 malicious.py
 ```
 
 *after download virus open your file explorer*
