@@ -1,5 +1,5 @@
 # luzius-carlober
-En este repositorio podemos encontrar un simples virus programados en Python
+En este repositorio podemos encontrar una canidad virus para android y Windows programados en Python
 
 ![imagen](https://user-images.githubusercontent.com/86197463/176010499-6cd05a11-5e60-4e62-904a-6b7d71d0b548.png)
 
