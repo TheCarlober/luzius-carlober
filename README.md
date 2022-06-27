@@ -38,7 +38,6 @@ $ pip2 install -r requirements.txt
 $ python2 luzius-carlober.py
 ```
 
-```
 # Redes
 
 # Tik Tok : 
