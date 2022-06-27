@@ -19,12 +19,12 @@ $ gem install lolcat
 $ https://github.com/TheCarlober/luzius-carlober
 $ cd luzius-carlober
 $ pip2 install -r requirements.txt
-$ python2 malicious.py
+$ python2 luzius-carlober.py
 ```
 
 *after download virus open your file explorer*
 
-*find folder Malicious and open it*
+*find folder luzius and open it*
 
 *chose and open folder Android if you download virus Android*
 ### Installation Linux
