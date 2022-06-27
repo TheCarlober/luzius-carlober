@@ -1,6 +1,8 @@
 # luzius-carlober
 En este repositorio podemos encontrar un simples virus programados en Python
 
+![imagen](https://user-images.githubusercontent.com/86197463/176010499-6cd05a11-5e60-4e62-904a-6b7d71d0b548.png)
+
 
 ## Requirements pip2 and gem
 ![](https://img.shields.io/badge/pip2-requests%20&%20tqdm-brightgreen.svg)
