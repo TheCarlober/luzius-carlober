@@ -1,7 +1,7 @@
 # luzius-carlober
 En este repositorio podemos encontrar una cantidad de virus para android y Windows programados en Python
 
-![imagen](https://user-images.githubusercontent.com/86197463/176010499-6cd05a11-5e60-4e62-904a-6b7d71d0b548.png)
+![imagen](https://user-images.githubusercontent.com/86197463/176034713-ccb08e71-7883-43a0-9bb3-7f1083e49a13.png)
 
 
 ## Requirements pip2 and gem
