@@ -38,5 +38,32 @@ $ pip2 install -r requirements.txt
 $ python2 luzius-carlober.py
 ```
 
+```
+# Redes
+
+# Tik Tok : 
+https://www.tiktok.com/@carlober_/
+
+# Youtube: 
+http://lnnk.in/haeU
+
+# Instagram: 
+https://www.instagram.com/carlober__/
+
+# Telegram: 
+https://t.me/Carloberhacking17
+
+# Discord: 
+
+https://discord.gg/2yb849jYMK
+
+
+
+![photo1654489563](https://user-images.githubusercontent.com/86197463/175801519-73294cab-e83a-447b-854f-c30fcadc4786.jpeg)
+
+
+
+
+
 
 
