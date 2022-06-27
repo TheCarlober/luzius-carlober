@@ -932,7 +932,7 @@ def Shellvirus():
 		print(""+R+"[!] This is not number")
 		
 def banner2():
-	print(""+B+"Luzius Proyec "+R+"  "+R+"No soy responsable del mal uso de esta herremienta ")
+	print(""+B+"Luzius Project "+R+"  "+R+"No soy responsable del mal uso de esta herramienta ")
 	print(""+R+"[!] "+G+"By Carlober "+R+"[!]"+GR+"")
 def menu():
 	print("\n"+R+"[<<<<<<<<<<< Menu >>>>>>>>>>]"+GR+"")
